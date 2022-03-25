@@ -1,0 +1,33 @@
+h1 {
+    color: #05386B;
+}
+
+.animalInfo {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 3rem 2.5rem;
+}
+
+.details {
+    padding: 0 1vw 2vh 1vw;
+    text-decoration: none;
+    max-width: 15vw;
+    color: #EDF5E1;
+    background: #05386B;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.animalName {
+    font-size: 2rem;
+    text-align: center;
+}
+
+.details img {
+    width: 15vw;
+}
+
+.info {
+    font-size: 1.3rem;
+} 
+
